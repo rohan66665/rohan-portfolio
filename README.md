@@ -1,16 +1,50 @@
-# React + Vite
+# Rohan Sharma – Applied GenAI Engineer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Portfolio website built using **React + Vite** showcasing my work in  
+**AI / ML / GenAI, RAG systems, and full-stack AI applications**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔹 About Me
+Applied GenAI Engineer with hands-on experience in building and deploying  
+AI/ML & GenAI applications using **Python, RAG pipelines, and cloud platforms**.
 
-## React Compiler
+Strong focus on **real-world problem solving**, production-ready systems,  
+and scalable deployments.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🔹 Tech Stack
+- **Frontend:** React, Vite, JavaScript, CSS
+- **Backend / AI:** Python, ML, NLP, GenAI, RAG
+- **Frameworks:** FastAPI, Django, Streamlit
+- **Cloud & Deploy:** AWS (EC2), Vercel
+- **Tools:** Git, GitHub, Postman, Docker (Basics)
+- **Database:** MySQL, Vector Databases
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔹 Featured Projects
+- **RAG-Based GenAI Chatbot**  
+  Retrieval-Augmented Generation system integrating LLMs with vector search.
+
+- **Health Risk Prediction System**  
+  ML model deployed using Streamlit for real-time predictions.
+
+- **Full-Stack AI Applications**  
+  End-to-end AI apps with backend APIs and React frontend.
+
+---
+
+## 🔹 Live Portfolio
+👉 https://your-vercel-link-here (we’ll update after deploy)
+
+---
+
+## 🔹 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/rohan-sharma6  
+- **GitHub:** https://github.com/rohan66665  
+
+---
+
+⭐ If you like this project, feel free to star the repository!
